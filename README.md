@@ -4,26 +4,22 @@
 
 ## Características Principales
 
-* **Registro Estructurado:** Utiliza un formato compacto `(Peso-Repeticiones-Fecha)` que permite añadir múltiples series de forma rápida, ideal para no perder el ritmo durante el entrenamiento.
-* **Visualización de Progreso:** La aplicación transforma tus registros en gráficos, permitiéndote identificar fases de progresión lineal, estancamiento o picos de fuerza.
-* **Interfaz Minimalista:** Diseñada para evitar distracciones, priorizando la entrada de datos eficiente y la lectura clara de los resultados.
+* **Registro Estructurado**: Utiliza un formato compacto (Peso-Repeticiones-Fecha) que permite añadir múltiples series de forma rápida, optimizando el tiempo durante el entrenamiento.
+* **Visualización de Progreso**: La aplicación transforma los registros en gráficos detallados, permitiendo identificar fases de progresión lineal, estancamiento o picos de fuerza.
+* **Interfaz Minimalista**: Diseño orientado a la eficiencia, priorizando la entrada de datos rápida y la lectura clara de los resultados sin distracciones.
 
 ## Formato de Datos
 
-La aplicación utiliza un sistema de cadenas optimizado para el almacenamiento eficiente:
+La aplicación emplea un sistema de cadenas optimizado para el almacenamiento eficiente y la integridad de la información:
 
 `"ID_EJERCICIO#PESO1-PESO2-PESO3...#REPS1-REPS2-REPS3...#DD/MM/AAAA"`
 
-## Instalación
+## Instrucciones de Instalación
 
-Para instalar la versión más reciente de GList en tu dispositivo móvil:
+Para instalar la versión más reciente de **GList** en un dispositivo Android, siga estos pasos:
 
-    Ve a la sección de Releases del repositorio.
-
-    Descarga el archivo con extensión .apk de la última versión disponible.
-
-    Una vez descargado, abre el archivo en tu dispositivo.
-
-    Si es necesario, habilita la opción "Instalar aplicaciones de fuentes desconocidas" en los ajustes de tu terminal.
-
-    Sigue las instrucciones en pantalla para completar la instalación.
+1. **Acceso a Versiones**: Diríjase a la sección de **Releases** dentro de este repositorio.
+2. **Descarga**: Localice y descargue el archivo con extensión `.apk` de la última versión disponible.
+3. **Ejecución**: Una vez finalizada la descarga, abra el archivo en su dispositivo móvil.
+4. **Permisos**: Si el sistema lo solicita, habilite la opción "Instalar aplicaciones de fuentes desconocidas" en los ajustes de seguridad de su terminal.
+5. **Finalización**: Siga las instrucciones del instalador en pantalla para completar el proceso.
